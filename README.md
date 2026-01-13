@@ -50,7 +50,7 @@ To switch which game you launch, edit `testGame`:
   LightEmAll game = new LightEmAll(int, int);
 - Fractal board:
   ```java
-  LightEmAll game = new LightEmAll(int, int, boolean)
+  LightEmAll game = new LightEmAll(int, int, boolean);
 
 ### Notes
 
