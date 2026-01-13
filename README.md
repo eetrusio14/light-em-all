@@ -52,7 +52,7 @@ To switch which game you launch, edit `testGame`:
   ```java
   LightEmAll game = new LightEmAll(int, int, boolean);
 
-### Notes
+## Notes
 
 - Game boards must be square, therefore, the int value on game board creation must be the same values.
 - The power propagating function only works in the confines of a set radius and is recomputed each each rotation / move.
