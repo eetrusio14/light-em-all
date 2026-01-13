@@ -38,11 +38,11 @@ You must have the corresponding JARs available (`javalib.jar` and `tester.jar`) 
 
 1. Open the project folder (the `HW8/` directory) in IntelliJ.
 2. Add the `javalib` and `tester` JARs to the project:
-   - **File → Project Structure → Modules → Dependencies → + → JARs or directories**
+   - **File → Project Structure -> Modules -> Dependencies -> + -> JARs or directories**
 3. Run the visual test:
    - Open `src/LightEmAll.java`
    - Find `class ExamplesLightEmAll`
-   - Run `testGame(Tester t)` using your course/testing setup (Tester).
+   - Run `testGame(Tester t)` using testing setup (Tester).
 
 To switch which game you launch, edit `testGame`:
 - Manual board:
